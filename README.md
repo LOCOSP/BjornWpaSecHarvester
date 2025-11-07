@@ -3,7 +3,7 @@
 Welcome to the Pwnagotchi Cyber Viking Cooperation project! 🚀 This script is designed to download and process Wi-Fi network data caputered by Pwnagotchi, processed with wpa-sec, and inject the networks into your Bjorn system. Additionally, it integrates with Discord to send the collected networks to your server! 🌐
 Optional ofcourse 🤓.
 
-![Pwnagotch&BjornCoop](/assets/pwnBjornCoop.png)
+![Pwnagotch&BjornCoop](/assets/colab.png)
 
 But that's not all—prepare yourself for an epic journey as Pwnagotchi teams up with the legendary cyber Viking, **Bjorn**, to hack the planet together! ⚔️
 
